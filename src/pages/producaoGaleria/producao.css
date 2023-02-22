@@ -1,0 +1,34 @@
+.producao_container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+}
+
+.producao_container article {
+  border: 1px solid transparent;
+  transition: var(--transition);
+
+}
+
+.producao_container article:hover {
+  border-color: var(--cor-branco);
+}
+
+/* Media medium Screens*/
+@media screen and (max-width: 1024px) {
+  .producao_container {
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+  }
+  .producao_container article {
+    border: 0;
+  }
+}
+
+/* Media SMALL Screens*/
+@media screen and (max-width: 600px) {
+  .producao_container {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+}

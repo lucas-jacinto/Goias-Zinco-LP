@@ -1,0 +1,77 @@
+.line-deco_top {
+  height: 1px;
+  width: 30vw;
+  background-color: #fff;
+  margin-top: 7px;
+}
+.line-deco_botton {
+  height: 1px;
+  width: 30vw;
+  background-color: #fff;
+  margin-bottom: 7px;
+}
+.telhas_container {
+  display: grid;
+  grid-template-columns: 40% 50%;
+  gap: 10%;
+}
+
+.telhas_images img {
+  border-radius: 10px;
+  overflow: hidden;
+  width: 30rem;
+  height: 20rem;
+}
+
+.telhas_conteudo h1 {
+  margin: 2rem 0 2rem 0;
+  color: var(--cor-terciaria);
+  font-size: 3rem;
+}
+
+.telhas_conteudo p {
+  margin-bottom: 1rem;
+}
+
+.contato_whats {
+  margin: 2rem;
+}
+
+.telhas_images {
+  padding-bottom: 8rem;
+}
+
+@media screen and (max-width: 1024px) {
+
+  .line-deco_top {
+    display: none;
+  }
+  .telhas_conteudo h1{
+    font-size: 2rem;
+  }
+  .telhas_images img {
+    width: 90%;
+  }
+  .telhas_conteudo h1 {
+    margin-bottom: 1rem;
+    margin-top: -3rem;
+  }
+  .telhas_container {
+    grid-template-columns: 1fr 1fr;
+    gap: 3rem;
+  }
+  .contato_whats {
+    width: 17rem;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .telhas_images img {
+    width: 90%;
+    margin-inline: auto;
+  }
+  .telhas_container {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+}

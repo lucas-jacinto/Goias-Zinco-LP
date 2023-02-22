@@ -1,0 +1,60 @@
+.calhas_container {
+  display: grid;
+  grid-template-columns: 40% 50%;
+  gap: 10%;
+}
+
+.calhas_images {
+  padding-bottom: 8rem;
+}
+
+.calhas_images img {
+  border-radius: 10px;
+  overflow: hidden;
+  width: 30rem;
+  height: 20rem;
+}
+
+.calhas_conteudo h1 {
+  margin: 2rem 0 2rem 0;
+  color: var(--cor-terciaria);
+  font-size:3rem ;
+}
+.calhas_conteudo p {
+  margin-bottom: 1rem;
+}
+
+.contato_whats {
+  margin: 2rem;
+}
+
+@media screen and (max-width: 1024px) {
+  .calhas_conteudo h1{
+    font-size: 2rem;
+  }
+  .calhas_images img {
+    width: 90%;
+  }
+  .calhas_conteudo h1 {
+    margin-bottom: 1rem;
+    margin-top: -3rem;
+  }
+  .calhas_container {
+    grid-template-columns: 1fr 1fr;
+    gap: 3rem;
+  }
+  .contato_whats{
+    width: 17rem;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .calhas_images img {
+    width: 90%;
+    margin-inline: auto;
+  }
+  .calhas_container {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+}
