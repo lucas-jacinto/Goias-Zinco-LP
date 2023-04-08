@@ -11,7 +11,9 @@ const MainHeader = () => {
             <div className='main_header-img-small' >
                 <img src={publi1} alt="imagem de telha" />
             </div>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id sequi et labore reprehenderit qui distinctio?
+            <p>Telhas, calhas, ruffos, pingadeiras e muito mais você encontra na Goiás Zinco.
+              <br/>
+              Estamos localizados em Goiânia - Goiás com os melhores preços da região.
             </p>
             <Link to='/produtos' className='btn lg'>Nossos Produtos</Link>
         </div>
