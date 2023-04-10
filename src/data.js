@@ -34,7 +34,7 @@ export const info = [
     icon: <FaCrown className="icon_info" />,
     title: 'Calhas e Ruffos',
     infos:
-      'Aqui tera algumas informacoes uteis para o cliente!Aqui tera algumas informacoes uteis para o cliente!Aqui tera algumas informacoes uteis para o cliente!',
+      'Dobramos até 8 metros!Aqui tera algumas informacoes uteis para o cliente!Aqui tera algumas informacoes uteis para o cliente!',
     path: '/calhas'
   },
   {
