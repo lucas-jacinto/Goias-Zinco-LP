@@ -42,7 +42,7 @@ export const info = [
     icon: <FaCrown className="icon_info" />,
     title: 'Telhas Isotérmicas',
     infos:
-      'Aqui tera algumas informacoes uteis para o cliente!Aqui tera algumas informacoes uteis para o cliente!Aqui tera algumas informacoes uteis para o cliente!',
+      'Temos telhas isotérmicas, com uma qualidade excelente!Aqui tera algumas informacoes uteis para o cliente!Aqui tera algumas informacoes uteis para o cliente!',
     path: '/telhas'
   },
   {
@@ -67,14 +67,14 @@ export const valores = [
   {
     id: 1,
     icon: <SiOpenaigym />,
-    title: 'Valor 1',
-    desc: 'lorem Aqui tera algumas informacoes uteis para dos nossos valores como empresa'
+    title: 'Integridade',
+    desc: 'Acreditamos na importancia da qualidade da matéria prima dos produtos, por isso utilizamos a de melhor qualidade do mercado. '
   },
   {
     id: 2,
     icon: <SiOpenaigym />,
-    title: 'Valor 2',
-    desc: 'lorem Aqui tera algumas informacoes uteis para dos nossos valores como empresa'
+    title: 'Transparência',
+    desc: 'Nossa empresa busca ser o mais transparente possível com nossos clientes, os produtos são produzidos e enviados pela Goiás Zinco. '
   },
   {
     id: 3,
