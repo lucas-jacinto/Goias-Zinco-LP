@@ -79,14 +79,14 @@ export const valores = [
   {
     id: 3,
     icon: <SiOpenaigym />,
-    title: 'Valor 3',
-    desc: 'lorem Aqui tera algumas informacoes uteis para dos nossos valores como empresa'
+    title: 'Qualidade',
+    desc: 'Tanto nossas Calhas e os Ruffos são feitas de zinco e dobradas com maior cuidado para te atender da melhor forma possível.'
   },
   {
     id: 4,
     icon: <SiOpenaigym />,
-    title: 'Valor 4',
-    desc: 'lorem Aqui tera algumas informacoes uteis para dos nossos valores como empresa'
+    title: 'Ética',
+    desc: 'Nossa base é a ética e moral, seremos fieis aos compromissos feitos pelos clientes. '
   }
 ]
 
