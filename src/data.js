@@ -98,8 +98,8 @@ export const faqs = [
   },
   {
     id: 2,
-    question: 'Ate quantos metros dobram?',
-    answer: 'Dobramos ate 8metros...porem podemos fazer outros valores...'
+    question: 'Onde estão localizados?',
+    answer: 'Nossa loja é em Goiânia - Goiás, CEP 74355-037, Rua Espigão esq. c/ São Roque, Qd. 01 , Lt. 11 - St. dos Dourados. Aguardamos sua visita.'
   },
   {
     id: 3,
