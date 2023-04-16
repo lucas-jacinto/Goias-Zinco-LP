@@ -103,9 +103,9 @@ export const faqs = [
   },
   {
     id: 3,
-    question: 'Ate quantos metros dobram de telhas e tals?',
+    question: 'Entregam em todo o Brasil?',
     answer:
-      'Dobramos ate 8metros...porem podemos fazer outros valores.Dobramos ate 8metros...porem podemos fazer outros valores.....'
+      'Por enquanto apenas em regiões proximas a Goiânia, entre em contato para mais informações.'
   },
   {
     id: 4,
