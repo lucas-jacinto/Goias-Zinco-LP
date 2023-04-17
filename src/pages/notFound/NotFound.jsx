@@ -6,7 +6,7 @@ const NotFound = () => {
     <section>
       <div className='container notfound_container'>
         <h2>
-          Página não encontrada  <BiError className='alert_icon'/>
+          Página não encontrada em Goiás Zinco  <BiError className='alert_icon'/>
         </h2>
         <Link to='/' className='btn'>Voltar Página Inicial</Link>
       </div>
