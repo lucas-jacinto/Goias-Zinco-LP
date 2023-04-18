@@ -105,18 +105,18 @@ export const faqs = [
     id: 3,
     question: 'Entregam em todo o Brasil?',
     answer:
-      'Por enquanto apenas em regiões proximas a Goiânia, entre em contato para mais informações.'
+      'Temos a opção de mandar por uma transportadora e se for próxima a Goiânia-GO, nos mesmos enviamos. Para mais informações entre em contato conosco.'
   },
   {
     id: 4,
-    question: 'Ate quantos metros dobram?dada como la e tals',
-    answer: 'Dobramos ate 8metros...porem podemos fazer outros valores...'
+    question: 'Fazem produtos personalizados?',
+    answer: 'Sim, fazemos pingadeiras, churrasqueiras e muito mais...'
   },
   {
     id: 5,
-    question: 'Ate quantos metros dobram?',
+    question: 'Posso fazer uma visita presencial a loja?',
     answer:
-      'Dobramos ate 8metros...porem podemos fazer outros valores.Dobramos ate 8metros...porem podemos fazer outros valores.....'
+      'Claro, será muito bem recebido!'
   },
   {
     id: 6,
