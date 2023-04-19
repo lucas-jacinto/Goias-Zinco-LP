@@ -18,7 +18,7 @@ const Calhas = () => {
         <div className='container calhas_container'>
           <div className='calhas_conteudo'>
             <h1>Calhas e Ruffos </h1>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit sequi repudiandae enim ipsam aperiam voluptates. Voluptatum non recusandae assumenda porro, Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis ducimus, aspernatur optio fugit animi sapiente saepe delectus, rerum quos exercitationem molestiae magni. Necessitatibus ad a autem corrupti dolores earum itaque.
+            <p>Cansado daqueles respingos na sua garagem? Ou mesmo as quedas de água vindas do telhado? Garanta já suas Calhas conosco.
             </p>
           </div>
 
