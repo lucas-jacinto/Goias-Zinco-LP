@@ -9,7 +9,7 @@ const Telhas = () => {
   return (
    <>
     <Header title='Telhas Isotérmicas' image={HeaderImage}>
-      Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur 
+      Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur
       Lorem ipsum dolor sit amet consectetur
     </Header>
     <section className='telhas_section'>
@@ -18,7 +18,7 @@ const Telhas = () => {
       <div className='container telhas_container'>
         <div className='telhas_conteudo'>
             <h1>Telhas </h1>
-            <p> Mas o que é a telha isotérmica?  Também  conhecida como telha sanduíche, pois sua estrutura é formada por duas chapas de metal, normalmente feitas de aço galvanizado. Entre essas duas chapas é colocado um material isolante, feito de isopor geralmente.
+            <p> Mas o que são as telhas isotérmicas?  Também  conhecidas como telhas sanduíche, pois sua estrutura é formada por duas chapas de metal, normalmente feitas de aço galvanizado. Entre essas duas chapas é colocado um material isolante, feito de isopor geralmente.
             </p>
         </div>
 
