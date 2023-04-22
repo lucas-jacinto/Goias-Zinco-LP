@@ -9,22 +9,22 @@ const Sobre = () => {
   return (
    <>
     <Header title='Sobre Nós' image={HeaderImage}>
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem sapiente doloremque, minima voluptatibus nisi officiis similique vitae quisquam magni, iste quaerat, voluptates deleniti amet assumenda ex ea. Odit, suscipit dolore.
+      Somos uma empresa focada no melhor atendimento ao cliente. Especializados em Calhas, Ruffos, Telhas Isotérmicas, produtos para Vedação e muito mais.
     </Header>
     <section className='sobre_story'>
       <div className='container sobre_story-container'>
-        
+
         <div className='sobre_section-image'>
          <img src={produ6} alt="imagem da producao" />
         </div>
 
         <div className='sobre_section-conteudo'>
           <h1>Nossa Historia</h1>
-          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit sequi repudiandae enim ipsam aperiam voluptates. Voluptatum non recusandae assumenda porro, sapiente illum eius numquam nam pariatur enim quia quod minus.
+          <p>Rodrigo trabalhava na área desde muito novo, pois seu pai era sócio de uma empresa de Calhas, assim conseguiu comprar um parte e ficou sócio também, porém devido a divergencias gerenciais, Rodrigo decidiu vender a parte dele e criar sua própria empresa, Goiás Zinco. Assim estamos há mais de 7 anos no mercado.
           </p>
           <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maiores necessitatibus eos similique, modi soluta omnis minima vitae reiciendis unde. Officiis facilis quam veritatis?.
           </p>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
           </p>
          </div>
       </div>
