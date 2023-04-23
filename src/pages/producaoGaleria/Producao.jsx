@@ -14,16 +14,16 @@ const Producao = () => {
   return (
     <>
       <Header title='Nossa Producao' image={HeaderImage}>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum expedita velit aliquid, doloremque magnam autem nobis, adipisci quo dolorum omnis laboriosam nemo quaerat a, fuga officia perferendis est magni. Illo!
+        Galeria com os produtos da nossa loja, desde a fabricação até a entrega e instalação na sua residência.
       </Header>
       <section className='producao'>
         <div className='container producao_container'>
           {
             images.map((image,index) =>{
-              return( 
+              return(
               <article key={index}>
-                <img 
-                src={image} 
+                <img
+                src={image}
                 alt={`Imagem da Producao ${index + 1}`} />
               </article>)
             })
