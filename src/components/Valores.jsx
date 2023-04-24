@@ -16,8 +16,7 @@ const Valores = () => {
         <div className='valores_right'>
             <SectionHead icon={<GiCutDiamond/>} title='Nossos Valores' />
             <p>
-              Estamos há mais de 10 anos no mercado mantendo os melhores preços para nossos clientes.
-              Não perca tempo, faça já o seu orçamento!
+              Estamos há mais de 7 anos no mercado, mantendo os melhores preços e ótimo atendimento para os nossos clientes.
             </p>
             <div className='valores_wrapper'>
               {

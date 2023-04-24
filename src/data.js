@@ -86,7 +86,7 @@ export const valores = [
     id: 4,
     icon: <SiOpenaigym />,
     title: 'Ética',
-    desc: 'Nossa base é a ética e moral, seremos fieis aos compromissos feitos pelos clientes. '
+    desc: 'Nossa base é a ética e moral, seremos fieis aos compromissos feitos com os clientes. '
   }
 ]
 
