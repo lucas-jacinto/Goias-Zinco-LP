@@ -15,7 +15,7 @@ const MainHeader = () => {
               <br/>
               Estamos localizados em Goiânia - Goiás com os melhores preços da região.
             </p>
-            <Link to='/produtos' className='btn lg'>Nossos Produtos</Link>
+            <Link to='/Contato' className='btn lg'>Fazer Cotação</Link>
         </div>
         <div className='main_header-right'>
             <div className='main_header-img' >
