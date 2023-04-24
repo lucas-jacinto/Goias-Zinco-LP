@@ -34,7 +34,7 @@ export const info = [
     icon: <FaCrown className="icon_info" />,
     title: 'Calhas e Ruffos',
     infos:
-      'Dobramos até 8 metros!Aqui tera algumas informacoes uteis para o cliente!Aqui tera algumas informacoes uteis para o cliente!',
+      'Cansado dos respisgos na sua garagem? ou da infiltração na sua casa? Temos a solução e os melhores valores do mercado em Calhas e Ruffos, venham conferir!',
     path: '/calhas'
   },
   {
@@ -42,7 +42,7 @@ export const info = [
     icon: <FaCrown className="icon_info" />,
     title: 'Telhas Isotérmicas',
     infos:
-      'Temos telhas isotérmicas, com uma qualidade excelente!Aqui tera algumas informacoes uteis para o cliente!Aqui tera algumas informacoes uteis para o cliente!',
+      'Novidade Telhas Sanduíche',
     path: '/telhas'
   },
   {
