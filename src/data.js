@@ -58,7 +58,7 @@ export const info = [
     icon: <FaCrown className="icon_info" />,
     title: 'Vedação',
     infos:
-      'Aqui tera algumas informacoes uteis para o cliente!Aqui tera algumas informacoes uteis para o cliente!Aqui tera algumas informacoes uteis para o cliente!',
+      'Temos vedação para calhas, ruffos, juntas entre outros. Também temos vedação contra trincas em lajes, telhas entre outros.',
     path: '/telhas'
   }
 ]
