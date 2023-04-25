@@ -42,7 +42,7 @@ export const info = [
     icon: <FaCrown className="icon_info" />,
     title: 'Telhas Isotérmicas',
     infos:
-      'Novidade Telhas Sanduíche',
+      'Excelente controle de temperatura em dias frios, além de fornecer temperaturas mais baixas em dias mais quentes',
     path: '/telhas'
   },
   {
