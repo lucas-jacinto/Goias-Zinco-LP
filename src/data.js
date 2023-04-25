@@ -50,7 +50,7 @@ export const info = [
     icon: <FaCrown className="icon_info" />,
     title: 'Pingadeiras',
     infos:
-      'Aqui tera algumas informacoes uteis para o cliente!Aqui tera algumas informacoes uteis para o cliente!Aqui tera algumas informacoes uteis para o cliente!',
+      'As pingadeiras são utilizadas no encontro da telha com a parede, protegendo contra qualquer infiltração ou mancha. Também com função estética, dando um bom acabamento e padronização',
     path: '/calhas'
   },
   {
