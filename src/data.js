@@ -34,7 +34,7 @@ export const info = [
     icon: <FaCrown className="icon_info" />,
     title: 'Calhas e Ruffos',
     infos:
-      'Cansado dos respisgos na sua garagem? ou da infiltração na sua casa? Temos a solução e os melhores valores do mercado em Calhas e Ruffos, venham conferir!',
+      'Cansado dos respisgos na sua garagem? ou da infiltração na sua casa? Temos a solução e os melhores valores do mercado em calhas e ruffos, venham conferir!',
     path: '/calhas'
   },
   {
@@ -93,8 +93,8 @@ export const valores = [
 export const faqs = [
   {
     id: 1,
-    question: 'Ate quantos metros dobram por cliente?',
-    answer: 'Dobramos ate 8metros...porem podemos fazer outros valores...'
+    question: 'Fazem instalação e manutenção dos produtos?',
+    answer: 'Sim, em Goiânia e em regiões proximas.'
   },
   {
     id: 2,
