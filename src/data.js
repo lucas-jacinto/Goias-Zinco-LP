@@ -120,9 +120,9 @@ export const faqs = [
   },
   {
     id: 6,
-    question: 'Ate quantos metros dobram?',
+    question: 'O que são calhas galvanizadas?',
     answer:
-      'Dobramos ate 8metros...porem podemos fazer outros valores...Dobramos ate 8metros...porem podemos fazer outros valores...'
+      'O processo ocorre com uma calha de aço comum que é enriquecida por zinco, em um processo químico conhecido como galvanização.'
   }
 ]
 
