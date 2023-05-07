@@ -116,13 +116,13 @@ export const faqs = [
     id: 5,
     question: 'Posso fazer uma visita presencial a loja?',
     answer:
-      'Claro, será muito bem recebido!'
+      'Claro, será muito bem recebido em nossa loja!'
   },
   {
     id: 6,
     question: 'O que são calhas galvanizadas?',
     answer:
-      'O processo ocorre com uma calha de aço comum que é enriquecida por zinco, em um processo químico conhecido como galvanização.'
+      'O processo ocorre com uma calha de aço comum que é enriquecida por zinco, em um processo químico conhecido como galvanização. Deixando a telha mais resistente.'
   }
 ]
 
