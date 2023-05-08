@@ -14,7 +14,7 @@ const Footer = () => {
           <img src={Logo} alt="footer logo" />
         </Link>
         <p>
-          Goiás Zinco e IsoGoiás melhores produtos para melhorar o conforto da sua casa. Nossas redes sociais:
+          Goiás Zinco e IsoGoiás, temos os melhores produtos para o conforto da sua casa. Nossas redes sociais:
         </p>
         <div className='footer_socials'>
           <a href="https://instagram.com/" target='_blank' rel='noreferrer noopener'><AiFillInstagram/></a>
