@@ -25,23 +25,23 @@ const Footer = () => {
         </Link>
       </article>
       <article>
-        <h4>Links Relevantes</h4>
+        <h4>Links</h4>
         <Link to='/telhas'>Telhas Isotermicas</Link>
         <Link to='/calhas'>Calhas e Ruffos</Link>
         <Link to='/contato'>Contato</Link>
       </article>
 
       <article>
-        <h4>Entre em Contato</h4>
-        <Link to='/sobre'>Sobre Nos</Link>
-        <Link to='/contato'>Nosso Contato</Link>
-  
+        <h4>Veja mais</h4>
+        <Link to='/'>Home</Link>
+        <Link to='/producao'>Nossa produção</Link>
+
       </article>
       <article>
         <h4>Entre em Contato</h4>
         <Link to='/sobre'>Sobre Nos</Link>
         <Link to='/contato'>Nosso Contato</Link>
-  
+
       </article>
     </div>
     <div className='footer_copyright'>
