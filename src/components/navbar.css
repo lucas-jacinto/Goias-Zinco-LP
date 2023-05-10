@@ -132,7 +132,7 @@ nav {
   }
 
   .nav_links li a {
-    background-color: var(--cor-terciaria);
+    background-color: var(--cor-branco);
     height: 100%;
     width: 100%;
     display: flex;
