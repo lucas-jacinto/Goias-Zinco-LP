@@ -1,7 +1,7 @@
 # Landing Page Goiás Zinco
 
-## Preview
 
+ Preview
 ### Versão Desktop:
 ![alt text](https://github.com/lucas-jacinto/Goias-Zinco-LP/blob/main/public/desktop1.png/?raw=true)
 ![alt text](https://github.com/lucas-jacinto/Goias-Zinco-LP/blob/main/public/desktop2.png/?raw=true)
