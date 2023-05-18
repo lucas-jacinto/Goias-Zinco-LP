@@ -9,8 +9,8 @@ const Contato = () => {
   return (
     <>
       <Header title='Entre em Contato' image={Image2}>
-        Funcionamos de Segunda a sexta das 7:00h ás 18:00h<br/>
-        E nos Sábados das 7:00h até 12:00h
+        Funcionamos de segunda a sexta das 7:00h ás 18:00h<br/>
+        E nos sábados das 7:00h até 12:00h
       </Header>
       <section className='contato'>
         <div className='container contato_container'>

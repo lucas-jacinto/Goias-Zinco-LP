@@ -9,8 +9,7 @@ const Telhas = () => {
   return (
    <>
     <Header title='Telhas Isotérmicas' image={HeaderImage}>
-      Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur
-      Lorem ipsum dolor sit amet consectetur
+      Temos telhas isotérmicas e teclhas convencionais perfeitas para sua casa
     </Header>
     <section className='telhas_section'>
       <div className='line-deco_top'></div>
